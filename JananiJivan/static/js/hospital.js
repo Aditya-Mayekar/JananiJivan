@@ -19,4 +19,4 @@ function showNearbyHospitals(position) {
   window.open(googleMapsUrl, '_blank');
 }
 
-// Locate Hospital start
+// Locate Hospital ends
